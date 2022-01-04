@@ -28,4 +28,4 @@ Project is completed as required.
 
 ## Author/Contact
 * M. Christopher
-* GitHub: 
+* GitHub: https://mcheroajdn.github.io/Magic-Eight-Ball/
